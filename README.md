@@ -21,11 +21,7 @@
 <p align="center"><a href="https://github.com/getintorj"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a></p>
 
 
-<div>
-  <a href="#">
-    <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-  </a>
-</div>
+
 
 <a href="https://stardev.io/developers/CHEGEBB"><img alt="Check out CHEGEBB's profile on stardev.io" src="https://stardev.io/developers/CHEGEBB/badge/languages/country.svg" /></a>
 
